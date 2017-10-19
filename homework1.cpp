@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	const int Size = 15;
+
 	char name1[80];
 	char name2[80];
 	char grade;
